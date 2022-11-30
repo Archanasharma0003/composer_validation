@@ -5,6 +5,8 @@
     "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],
     "homepage": "https://github.com/Archanasharma0003/composer_validation",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
     "authors": [
         {
             "name": "Archana",
@@ -27,6 +29,4 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
 }

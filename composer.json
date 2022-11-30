@@ -4,7 +4,8 @@
     "description": "This description will contain all the info about waht your package does",
     "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],
     "homepage": "https://github.com/Archanasharma0003/composer_validation",
-    "license": "MIT",
+    "license": "MIT"
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Archana",

@@ -1,5 +1,5 @@
 {
-    "name": "vendor-test-name/package-test-name",
+    "name": "vendor-test-name/package-validation",
     "type": "library",
     "description": "This description will contain all the info about waht your package does",
     "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],

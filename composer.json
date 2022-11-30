@@ -1,0 +1,24 @@
+{
+    "name": "vendor-test-name/package-test-name",
+    "type": "library",
+    "description": "This description will contain all the info about waht your package does",
+    "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],
+    "homepage": "https://github.com/Archanasharma0003/composer_validation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Archana",
+            "email": "archana.s@richestsoft.in",
+            "homepage": "https://github.com/Archanasharma0003/composer_validation",
+            "role": "Laravel Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "App\\": "app/"
+        }
+    }
+}

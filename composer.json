@@ -5,7 +5,6 @@
     "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],
     "homepage": "https://github.com/Archanasharma0003/composer_validation",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Archana",
@@ -17,6 +16,7 @@
     "require": {
         "php": ">=7.0.0"
     },
+        "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "App\\": "app/"

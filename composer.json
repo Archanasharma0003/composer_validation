@@ -13,8 +13,7 @@
             "role": "Laravel Developer"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+
     "require": {
         "php": ">=7.0.0"
     },
@@ -23,4 +22,6 @@
             "App\\": "app/"
         }
     }
+        "minimum-stability": "dev",
+    "prefer-stable": true
 }

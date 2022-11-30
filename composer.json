@@ -6,7 +6,7 @@
     "homepage": "https://github.com/Archanasharma0003/composer_validation",
     "license": "MIT",
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Archana",
